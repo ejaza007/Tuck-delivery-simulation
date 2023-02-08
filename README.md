@@ -1,4 +1,4 @@
-Transport Simulation
+
 This is a transport simulation that models trucks of different sizes moving between different locations, picking-up and dropping off shipments. The simulation takes place on a two-dimensional map measured in miles.
 
 Features
