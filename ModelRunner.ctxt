@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ModelRunner
+comment0.text=\n\ A\ class\ to\ run\ the\ simulation\ through\ a\ variety\ of\ different\ configuration\nfiles\ and\ random\ seed\ values.\n\n\ @author\ Armaghan\ Ejaz\n\ @version\ 19-04-2022\n
+comment1.params=
+comment1.target=ModelRunner()
+comment1.text=\n\ default\ constructor\ of\ model\ runner\n
+comment2.params=filename
+comment2.target=void\ main(java.lang.String)
+comment2.text=\n\ Main\ class\ runs\ the\ simulation\ for\ different\ seeds\ and\ configuration\n\n\ @author\ Armaghan\ Ejaz\n\ @version\ 19-04-2022\n
+numComments=3

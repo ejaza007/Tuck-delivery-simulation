@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ConfigurationReader
+comment0.text=\n\ Creates\ random\ configuration\ files\n\n\ @author\ Armaghan\ Ejaz\n\ @version\ 07-04-20022\n
+comment1.params=file
+comment1.target=ConfigurationReader(java.io.File)
+comment1.text=\n\ Default\ constructor\ for\ ConfigurationReader\n
+comment2.params=
+comment2.target=void\ main()
+comment2.text=\n\ main\ method\n\ reads\ in\ files\ and\ stores\ the\ information\n
+comment3.params=
+comment3.target=int\ warehouse_no()
+comment3.text=\n\ returns\ number\ of\ warehouse\ read\ from\ file\n\ \n\ @return\ int\ w\n
+comment4.params=
+comment4.target=int\ shipment_no()
+comment4.text=\n\ returns\ number\ of\ shipments\ read\ from\ file\n\ \n\ @return\ int\ s\n
+comment5.params=
+comment5.target=int\ truck_no()
+comment5.text=\n\ returns\ number\ of\ trucks\ read\ from\ file\n\ \n\ @return\ int\ r\n
+numComments=6

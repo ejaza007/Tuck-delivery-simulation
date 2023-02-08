@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\n\ Class\ creates\ generic\ Stack\ data\ strucure\ with\ First-in-First-out\ functionality\n\n\ @author\ Armaghan\ Ejaz\n\ @version\ 09-04-2022\n
+comment1.params=
+comment1.target=Stack()
+comment2.params=
+comment2.target=boolean\ empty()
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+comment5.params=item
+comment5.target=java.lang.Object\ push(java.lang.Object)
+comment6.params=o
+comment6.target=int\ search(java.lang.Object)
+numComments=7

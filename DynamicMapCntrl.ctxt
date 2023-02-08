@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DynamicMapCntrl
+comment1.params=
+comment1.target=DynamicMapCntrl()
+comment2.params=
+comment2.target=void\ refresh()
+comment3.params=t
+comment3.target=void\ add(Truck)
+comment4.params=w
+comment4.target=void\ add(Warehouse)
+comment5.params=str
+comment5.target=DynamicMapCntrl(java.lang.String)
+numComments=6

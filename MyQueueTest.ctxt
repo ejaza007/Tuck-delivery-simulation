@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyQueueTest
+comment0.text=\n\ The\ test\ class\ MyQueueTest.\n\n\ @author\ \ Armaghan\ Ejaz\n\ @version\ 04-09-2022\n
+comment1.params=
+comment1.target=MyQueueTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ MyQueueTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ test_meth_add()
+comment4.text=\n\ Tests\ add\ method\ by\ using\ the\ get\ method\n\n
+comment5.params=
+comment5.target=void\ test_meth_remove()
+comment5.text=\n\ Tests\ remove\ method\ by\ using\ the\ get\ method\n\n
+comment6.params=
+comment6.target=void\ test_meth_peek()
+comment6.text=\n\ Tests\ peek\ method\ by\ checking\ added\ objects\ \n\n
+numComments=7

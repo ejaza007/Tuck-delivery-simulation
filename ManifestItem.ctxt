@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ManifestItem
+comment0.text=\n\ Each\ Manifest\ Item\ stores\ the\ starting\ location\ for\ the\ pickup\ and\ ending\ location\ for\ the\ pickup\n\n\ @author\ Armaghan\ Ejaz\n\ @version\ 15-04-2022\n
+comment1.params=start_warehouse\ end_warehouse
+comment1.target=ManifestItem(Warehouse,\ Warehouse)
+comment1.text=\n\ Default\ Constructor\ for\ Manifest\ Item\n\n\ @param\ Start\ Warehouse,\ End\ Warehouse\n
+comment2.params=
+comment2.target=Warehouse\ getStartWarehouse()
+comment2.text=\n\ returns\ start\ warehouse\n\ @return\ Warehouse\n
+comment3.params=start_warehouse
+comment3.target=void\ setStartWarehouse(Warehouse)
+comment3.text=\n\ set\ start\ warehouse\n\ @param\ Warehouse\ start\ warehouse\n
+comment4.params=
+comment4.target=Warehouse\ getEndWarehouse()
+comment4.text=\n\ @param\ Warehouse\ end\ warehouse\n
+comment5.params=
+comment5.target=void\ setEndWarehouse()
+comment5.text=\n\ set\ end\ warehouse\n\ @return\ Warehouse\ end\ warehouse\n
+numComments=6

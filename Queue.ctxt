@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\n\ Class\ creates\ generic\ Queue\ data\ strucure\ with\ First-in-Last-out\ functionality\n\n\ @author\ Armaghan\ Ejaz\n\ @version\ 09-04-2022\n
+comment1.params=e
+comment1.target=java.lang.Object\ add(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment3.params=
+comment3.target=java.lang.Object\ remove()
+comment4.params=index
+comment4.target=java.lang.Object\ get(int)
+comment4.text=\nMethod\ returns\ the\ Object\ at\ the\ specified\ index\n\n\ @param\ int\ index\n\ \n\ @return\ E\ Object\n\ \n
+numComments=5

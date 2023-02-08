@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\n\ Ticks\ down\ hours\ and\ runs\ action\ methods\ of\ trucks\n\n\ @author\ Armaghan\ Ejaz\ \ \ \ \n\ @version\ 07-04-2022\n
+comment1.params=model
+comment1.target=Clock(Model)
+comment1.text=\n\ \ Default\ Constructor\ for\ Clock\ Class\n
+comment2.params=truckArr\ dmc
+comment2.target=void\ run_simulation(Truck[],\ DynamicMapCntrl)
+comment2.text=\n\ \ runs\ the\ simulation\n\ \n\ @param\ Truck\ Array,\ Dynamic\ Map\n
+comment3.params=
+comment3.target=int\ gettimer()
+comment3.text=\n\ returns\ time\ passed\n\ \n\ @return\ Timer\n
+comment4.params=timer
+comment4.target=void\ settimer(int)
+comment4.text=\n\ sets\ time\ passed\n\ \n\ @param\ timer\n
+numComments=5

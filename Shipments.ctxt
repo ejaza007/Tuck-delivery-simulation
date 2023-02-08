@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Shipments
+comment0.text=\n\ Class\ represents\ the\ Shipment\ Objects\n\n\ @author\ Armaghan\ Ejaz\n\ @version\ 08-04-2021\n
+comment1.params=units\ warehouse
+comment1.target=Shipments(int,\ Warehouse)
+comment1.text=\n\ Default\ constructor\ for\ Shipment\n
+comment2.params=
+comment2.target=int\ getwarehouse_xpos()
+comment2.text=\n\ return\ warehouse\ x\ location\n\ @return\ int\ xpos\n
+comment3.params=
+comment3.target=int\ getwarehouse_ypos()
+comment3.text=\n\ return\ warehouse\ y\ location\n\ @return\ int\ ypos\n
+comment4.params=warehouse_xpos
+comment4.target=void\ setwarehouse_xpos(int)
+comment4.text=\n\ sets\ warehouse\ x\ location\n\ @param\ int\ warehouse\ xpos\n
+comment5.params=warehouse_ypos
+comment5.target=void\ setwarehouse_ypos(int)
+comment5.text=\n\ sets\ warehouse\ y\ location\n\ @param\ int\ warehouse\ ypos\n
+comment6.params=
+comment6.target=int\ getunits()
+comment6.text=\n\ returns\ number\ of\ units\n\ @return\ int\ units\n
+comment7.params=units
+comment7.target=void\ setunits(int)
+comment7.text=\n\ sets\ number\ of\ units\n\ @param\ int\ units\n
+numComments=8

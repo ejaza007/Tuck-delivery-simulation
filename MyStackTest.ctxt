@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyStackTest
+comment0.text=\n\ The\ test\ class\ MyStackTest.\n\n\ @author\ \ Armaghan\ Ejaz\n\ @version\ 04-09-2022\n
+comment1.params=
+comment1.target=MyStackTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ MyStackTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ test_meth_peek_push()
+comment4.text=\n\ Tests\ push\ and\ peek\ method\ by\ pushing\ objects\ in\ front\ of\ the\ stack\n\ and\ using\ peek\ to\ retrieve\ the\ head\n\n
+comment5.params=
+comment5.target=void\ test_meth_pop()
+comment5.text=\n\ Tests\ pop\ method\ by\ removing\ the\ head\ and\ returning\ it\ and\ checking\ that\ the\ removed\ head\ is\n\ equak\ to\ what\ was\ expected\n\n
+comment6.params=
+comment6.target=void\ test_meth_empty()
+comment6.text=\n\ Tests\ empty\ method\ by\ testing\ empty\ and\ non-empty\ stacks\n\n
+comment7.params=
+comment7.target=void\ test_meth_search()
+comment7.text=\n\ Tests\ search\ method\ by\ adding\ objects\ and\ comparing\ the\ expected\ distance\ from\ the\ head\ to\ the\ returned\ distance\n\n
+numComments=8

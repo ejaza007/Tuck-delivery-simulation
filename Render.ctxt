@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Render
+comment0.text=\n\ Interface\ class\ for\ Render\n\ \n\ @author\ Armaghan\ Ejaz\n\ @version\ 04-19-2022\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\n\ Draws\ Object\ on\ canvas\n\ @param\ Graphics\ g\n\ \n
+numComments=2
