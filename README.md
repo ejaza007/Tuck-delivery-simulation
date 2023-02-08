@@ -38,3 +38,13 @@ A dynamic map is created showing warehouse and truck locations.
 The program writes to a data file on truck, shipment, and warehouse activity during the simulation in CSV format for easy graphing.
 
 Unit tests are performed on as many classes as possible, and all classes are commented.
+
+## Data structures and algorithms used
+
+⦁	[Priority Queue](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
+⦁	[Queue](https://www.geeksforgeeks.org/queue-cpp-stl/)
+⦁	[Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+⦁	[Array](https://www.geeksforgeeks.org/arrays-in-c-cpp/)  
+⦁	[Stack](https://www.geeksforgeeks.org/arrays-in-c-cpp/) 
+
+
