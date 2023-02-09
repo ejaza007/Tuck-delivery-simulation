@@ -2,6 +2,7 @@
 
 This is a transport simulation that models trucks of different sizes moving between different locations, picking-up and dropping off shipments. The simulation takes place on a two-dimensional map measured in miles.
 
+Run the Program by using BlueJ to run the Simulation file
 # Features
 
 The simulation is broken into hours of time, where each hour, trucks are either moving towards a destination, picking up a shipment, unloading a shipment, or waiting for an empty loading dock.
